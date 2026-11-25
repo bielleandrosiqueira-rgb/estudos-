@@ -28,3 +28,24 @@ Serve para salvar as alterações no histórico do projeto. Uso `git commit`.
 
 ## Para que serve Push? Como se usa?
 Serve para enviar minhas alterações para o repositório remoto. Uso `git push`.?
+
+## Outros nomes de remotes
+Além de origin, podemos utilizar nomes como upstream e backup.
+Esses nomes identificam outros repositórios remotos configurados no Git.
+
+## O que é Merge?
+Merge é a operação utilizada para integrar as alterações de uma branch em outra.
+Uso: git merge develop.
+
+## O que é Pull Request?
+Pull Request (PR) é uma solicitação para revisar e integrar alterações de uma branch em outra.
+É utilizado no GitHub para permitir análise e aprovação antes do merge.
+
+## O que é Origin?
+Origin é o nome convencional atribuído ao repositório remoto principal.
+É um apelido que identifica esse repositório na configuração do Git.
+
+## O que é Remote?
+Remote é uma referência configurada no Git para um repositório remoto.
+Permite conectar o repositório local a outros repositórios hospedados, como no GitHub.
+x
